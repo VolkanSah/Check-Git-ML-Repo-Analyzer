@@ -31,7 +31,7 @@ Analyzes GitHub repositories to determine if they contain real machine learning 
 
 
 ## Usage
-[Demo](https://huggingface.co/spaces/Alibrown/Check-Git/)
+Demo - https://huggingface.co/spaces/Alibrown/Check-Git/
 > Enter a GitHub repository URL and click Analyze.
 
 For LLM analysis, provide your HuggingFace token (free at https://huggingface.co/settings/tokens).
