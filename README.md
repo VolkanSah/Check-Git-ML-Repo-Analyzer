@@ -15,7 +15,7 @@ license: mit
 
 # Check Git - ML Repo Analyzer
 
-Quick tool to detect fake ML training repositories that are just API wrappers. For the community ["Wall of Shames"](https://github.com/wall-of-shames)
+Quick tool to detect fake ML training repositories that are just API wrappers. For the community ["Wall of Shames"](https://github.com/wall-of-shames?view_as=public) Please read and learn and save the world with AI scam! Thanks from JADE, NCF, RustySafe and Friends
 
 ## What it does
 
