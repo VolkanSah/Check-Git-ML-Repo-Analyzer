@@ -15,7 +15,7 @@ license: mit
 
 # Check Git - ML Repo Analyzer
 
-Quick tool to detect fake ML training repositories that are just API wrappers. For the community ["Wall of Shames"](https://github.com/wall-of-shames?view_as=public) Please read and learn and save the world with AI scam! Thanks from JADE, NCF, RustySafe and Friends
+Quick tool to detect fake ML training repositories that are just API wrappers. For the community ["Wall of Shames"](https://github.com/wall-of-shames?view_as=public) Please read and learn and save the world from scammers with der Wannabe AI tools! Thanks from JADE, NCF, RustySafe and Friends
 
 ## What it does
 
@@ -46,4 +46,4 @@ With token: Uses Qwen2.5-Coder-32B on HuggingFace's free inference API for deepe
 
 MIT + ESOL v 1.0
 
-By VolkanSah aka AliBrown@HF
+By VolkanSah aka AliBrown@HF for JADE and WoS
