@@ -44,6 +44,6 @@ With token: Uses Qwen2.5-Coder-32B on HuggingFace's free inference API for deepe
 
 ## License
 
-MIT + ESOL v 1.0
+[MIT](LICENSE) + [ESOL v1.0](ESOL)
 
-By VolkanSah aka AliBrown@HF for JADE and WoS
+###### By VolkanSah aka AliBrown@HF for JADE and WoS
