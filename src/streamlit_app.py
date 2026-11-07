@@ -187,7 +187,7 @@ Respond in JSON format:
             
             # Verdict
             if total_score > 30:
-                verdict = "✅ LEGIT - Real ML Training Code"
+                verdict = "✔️ LEGIT - Real ML Training Code"
                 confidence = "High"
             elif total_score > 0:
                 verdict = "⚠️ MIXED - Contains some training code"
@@ -240,7 +240,7 @@ with st.sidebar:
     st.markdown("---")
     st.markdown("### 🛠️ Models Used")
     if use_llm:
-        st.success("✅ Qwen2.5-Coder-32B (Free)")
+        st.success("✔️ Qwen2.5-Coder-32B (Free)")
     else:
         st.info("📊 Pattern Matching Only")
     
@@ -302,7 +302,7 @@ if analyze_btn:
                             with col1:
                                 classification = res.get('classification', 'UNKNOWN')
                                 if classification == 'REAL_TRAINING':
-                                    st.success(f"✅ {classification}")
+                                    st.success(f"✔️ {classification}")
                                 elif classification == 'API_WRAPPER':
                                     st.error(f"❌ {classification}")
                                 else:
@@ -333,11 +333,11 @@ if analyze_btn:
                 with cols[0]:
                     st.metric("Python Files", struct['python_file_count'])
                 with cols[1]:
-                    st.write("✅" if struct['has_train_script'] else "❌", "train.py")
+                    st.write("✔️" if struct['has_train_script'] else "❌", "train.py")
                 with cols[2]:
-                    st.write("✅" if struct['has_model_files'] else "❌", "model files")
+                    st.write("✔️" if struct['has_model_files'] else "❌", "model files")
                 with cols[3]:
-                    st.write("✅" if struct['has_config'] else "❌", "configs")
+                    st.write("✔️" if struct['has_config'] else "❌", "configs")
 
 # Footer
 st.markdown("---")
