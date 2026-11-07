@@ -13,6 +13,8 @@ license: mit
 ---
 
 
+
+
 # Check Git - ML Repo Analyzer
 
 Quick tool to detect fake ML training repositories that are just API wrappers.
@@ -47,11 +49,18 @@ For LLM-powered analysis, provide your HuggingFace token (free at https://huggin
 
 ## License
 
-Dual-licensed under [MIT](LICENSE) + [ESOL v1.1](ESOL) 
+Dual-licensed under [MIT](LICENSE) + [ESOL v2.1](ESOL) 
+
 
 ---
 
 **Built with ❤️ by VolkanSah (AliBrown@HF) for JADE, NCF, RustySafe and the Wall of Shames community**
 
-*With assistance from Claude (Anthropic)*
+*With assistance from your Huggingface Account
+
+### Schreenshot
+
+
+![ Check Git Repos without cloning if its real LLM or fake](check-git.png)
+
 
