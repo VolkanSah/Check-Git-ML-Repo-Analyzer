@@ -33,7 +33,7 @@ Analyzes GitHub repositories to determine if they contain real machine learning 
 
 ## Usage
 
-**Live Demo:** [https://huggingface.co/spaces/Alibrown/Check-Git](https://huggingface.co/spaces/codey-lab/Check-Git)
+[**Live Demo:**](https://huggingface.co/spaces/codey-lab/Check-Git) On Huggingface + LLM if you have an free account)
 
 Enter a GitHub repository URL and click Analyze.
 
